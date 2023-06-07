@@ -1,0 +1,25 @@
+{
+  "short_name": "Diar Dzair",
+  "name": "Diar Dzair",
+  "icons": [
+    {
+      "src": "logodd.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logodd.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "logodd.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

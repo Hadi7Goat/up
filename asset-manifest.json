@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b5ee6fb.css",
+    "main.js": "/static/js/main.7f790676.js",
+    "static/media/i3mal-overlay.png": "/static/media/i3mal-overlay.ede38b36f405a4746125.png",
+    "static/media/Groupe 104.png": "/static/media/Groupe 104.e035e3b619435013bd77.png",
+    "static/media/i3mal-bg.jpg": "/static/media/i3mal-bg.d73ad4e35eec576c8787.jpg",
+    "static/media/101.png": "/static/media/101.f9fee28c7883c3d9aab7.png",
+    "static/media/i3mal-hiref.jpg": "/static/media/i3mal-hiref.108425c5c1f82775a882.jpg",
+    "static/media/i3mal-startup.jpg": "/static/media/i3mal-startup.f2d8da6016729ed00607.jpg",
+    "static/media/i3mal-women.jpg": "/static/media/i3mal-women.7f14f8fa79e3536d8ba7.jpg",
+    "static/media/saidatyimg.png": "/static/media/saidatyimg.fdde8ebe7a9e29a8ed19.png",
+    "static/media/daridjarbg.jpg": "/static/media/daridjarbg.b10cb432113ca1a62beb.jpg",
+    "static/media/helvetica ar.ttf": "/static/media/helvetica ar.2fc5d432bcd2392489b5.ttf",
+    "static/media/dari3marbg.jpg": "/static/media/dari3marbg.69181073cde7a9e816ec.jpg",
+    "static/media/Zourney-Heading.ttf": "/static/media/Zourney-Heading.473c0637799277a4b7a1.ttf",
+    "static/media/VEXA ITALIC.ttf": "/static/media/VEXA ITALIC.e3e3276bfe0c75d62b5e.ttf",
+    "static/media/Hacen-Eltaroute-Text.ttf": "/static/media/Hacen-Eltaroute-Text.26184266c610be186802.ttf",
+    "static/media/VEXA.ttf": "/static/media/VEXA.e53c6ff46bb67a9fa7a0.ttf",
+    "static/media/A Arghavan Bold.ttf": "/static/media/A Arghavan Bold.4eb16061eb46c06156a7.ttf",
+    "index.html": "/index.html",
+    "main.6b5ee6fb.css.map": "/static/css/main.6b5ee6fb.css.map",
+    "main.7f790676.js.map": "/static/js/main.7f790676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5ee6fb.css",
+    "static/js/main.7f790676.js"
+  ]
+}
